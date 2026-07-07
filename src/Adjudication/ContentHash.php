@@ -12,7 +12,7 @@ namespace Rushing\KnowledgeSpineData\Adjudication;
  * pure function of what it carries, never of when or where it was computed.
  * List order is significant; map order is not.
  */
-final class ContentHash
+class ContentHash
 {
     public static function of(mixed $content): string
     {

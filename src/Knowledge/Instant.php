@@ -9,9 +9,9 @@ use InvalidArgumentException;
  * An ordering point on the wall-clock axis. The axis compliance uses — "what
  * could the subject reasonably have known *as of this date*."
  */
-final class Instant implements OrderingPoint
+class Instant implements OrderingPoint
 {
-    public function __construct(public readonly CarbonImmutable $at) {}
+    public function __construct(public CarbonImmutable $at) {}
 
     public function compareTo(OrderingPoint $other): int
     {
