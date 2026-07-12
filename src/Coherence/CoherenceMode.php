@@ -1,6 +1,6 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Coherence;
+namespace Splicewire\KnowledgeSpineData\Coherence;
 
 /**
  * How a {@see CoherenceConstraint} judges an assertion against canon — the

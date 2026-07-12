@@ -1,8 +1,8 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Compliance\Contracts;
+namespace Splicewire\KnowledgeSpineData\Compliance\Contracts;
 
-use Rushing\KnowledgeSpineData\Compliance\Provenance\ProvenanceTier;
+use Splicewire\KnowledgeSpineData\Compliance\Provenance\ProvenanceTier;
 
 /**
  * An optional capability a subject may implement alongside `EvaluationSubject`:

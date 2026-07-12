@@ -1,6 +1,6 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Compliance\Concept;
+namespace Splicewire\KnowledgeSpineData\Compliance\Concept;
 
 use Rushing\LaravelDataSchemas\Attributes\Description;
 use Rushing\LaravelDataSchemas\Attributes\Example;

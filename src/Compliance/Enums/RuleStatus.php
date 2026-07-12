@@ -1,6 +1,6 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Compliance\Enums;
+namespace Splicewire\KnowledgeSpineData\Compliance\Enums;
 
 /**
  * Lifecycle of a rule fragment. Revisions supersede, they don't delete:

@@ -1,6 +1,6 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Coherence;
+namespace Splicewire\KnowledgeSpineData\Coherence;
 
 /**
  * The trust rank of an established fact, coherence-local on purpose.

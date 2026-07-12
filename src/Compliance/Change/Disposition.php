@@ -1,6 +1,6 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Compliance\Change;
+namespace Splicewire\KnowledgeSpineData\Compliance\Change;
 
 /**
  * What a subject must do about a change — the derived, per-subject output of the

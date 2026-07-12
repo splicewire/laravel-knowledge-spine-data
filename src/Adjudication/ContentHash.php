@@ -1,6 +1,6 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Adjudication;
+namespace Splicewire\KnowledgeSpineData\Adjudication;
 
 /**
  * A stable content hash over an arbitrary value, canonicalized so the same

@@ -1,12 +1,12 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Adjudication;
+namespace Splicewire\KnowledgeSpineData\Adjudication;
 
 use Carbon\CarbonImmutable;
 use InvalidArgumentException;
-use Rushing\KnowledgeSpineData\Knowledge\Instant;
-use Rushing\KnowledgeSpineData\Knowledge\OrderingPoint;
-use Rushing\KnowledgeSpineData\Knowledge\Ordinal;
+use Splicewire\KnowledgeSpineData\Knowledge\Instant;
+use Splicewire\KnowledgeSpineData\Knowledge\OrderingPoint;
+use Splicewire\KnowledgeSpineData\Knowledge\Ordinal;
 use Spatie\LaravelData\Data;
 
 /**

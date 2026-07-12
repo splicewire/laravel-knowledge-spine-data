@@ -1,6 +1,6 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Compliance\Concept;
+namespace Splicewire\KnowledgeSpineData\Compliance\Concept;
 
 /**
  * Confidence is control flow, not a stored number. A tagged string lands in one

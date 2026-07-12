@@ -1,6 +1,6 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Compliance\Concept;
+namespace Splicewire\KnowledgeSpineData\Compliance\Concept;
 
 /**
  * Where a synonym came from — which sets its trust. Authority synonyms are high

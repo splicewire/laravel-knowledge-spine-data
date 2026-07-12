@@ -1,8 +1,8 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Adjudication;
+namespace Splicewire\KnowledgeSpineData\Adjudication;
 
-use Rushing\KnowledgeSpineData\Predicate\Ternary;
+use Splicewire\KnowledgeSpineData\Predicate\Ternary;
 use Spatie\LaravelData\Data;
 
 /**

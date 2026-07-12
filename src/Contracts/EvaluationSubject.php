@@ -1,6 +1,6 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Contracts;
+namespace Splicewire\KnowledgeSpineData\Contracts;
 
 /**
  * The thing a corpus is resolved against — abstract on purpose.

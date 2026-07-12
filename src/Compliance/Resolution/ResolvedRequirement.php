@@ -1,8 +1,8 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Compliance\Resolution;
+namespace Splicewire\KnowledgeSpineData\Compliance\Resolution;
 
-use Rushing\KnowledgeSpineData\Compliance\Provenance\ProvenanceTier;
+use Splicewire\KnowledgeSpineData\Compliance\Provenance\ProvenanceTier;
 use Spatie\LaravelData\Data;
 
 /**

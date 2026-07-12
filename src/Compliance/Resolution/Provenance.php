@@ -1,6 +1,6 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Compliance\Resolution;
+namespace Splicewire\KnowledgeSpineData\Compliance\Resolution;
 
 use Spatie\LaravelData\Data;
 

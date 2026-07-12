@@ -1,6 +1,6 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Knowledge;
+namespace Splicewire\KnowledgeSpineData\Knowledge;
 
 use Carbon\CarbonImmutable;
 use InvalidArgumentException;

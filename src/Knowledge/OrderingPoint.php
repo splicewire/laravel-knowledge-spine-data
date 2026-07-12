@@ -1,6 +1,6 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Knowledge;
+namespace Splicewire\KnowledgeSpineData\Knowledge;
 
 /**
  * A point on *some* ordering axis along which knowledge accrues.

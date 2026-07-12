@@ -1,6 +1,6 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Compliance\Change;
+namespace Splicewire\KnowledgeSpineData\Compliance\Change;
 
 /**
  * What changed about a rule — the global, subject-independent axis. Pairs with

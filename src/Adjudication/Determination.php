@@ -1,8 +1,8 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Adjudication;
+namespace Splicewire\KnowledgeSpineData\Adjudication;
 
-use Rushing\KnowledgeSpineData\Knowledge\OrderingPoint;
+use Splicewire\KnowledgeSpineData\Knowledge\OrderingPoint;
 use Spatie\LaravelData\Attributes\DataCollectionOf;
 use Spatie\LaravelData\Data;
 

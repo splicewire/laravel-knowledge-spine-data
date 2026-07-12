@@ -1,8 +1,8 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Coherence\Concerns;
+namespace Splicewire\KnowledgeSpineData\Coherence\Concerns;
 
-use Rushing\KnowledgeSpineData\Knowledge\OrderingPoint;
+use Splicewire\KnowledgeSpineData\Knowledge\OrderingPoint;
 
 /**
  * The two-axis temporal check a canon fact needs — but on a generic

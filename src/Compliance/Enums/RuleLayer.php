@@ -1,6 +1,6 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Compliance\Enums;
+namespace Splicewire\KnowledgeSpineData\Compliance\Enums;
 
 /**
  * The corpus layer a rule is authored in. A subject inherits the union of every

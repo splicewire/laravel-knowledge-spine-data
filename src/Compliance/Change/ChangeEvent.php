@@ -1,8 +1,8 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Compliance\Change;
+namespace Splicewire\KnowledgeSpineData\Compliance\Change;
 
-use Rushing\KnowledgeSpineData\Compliance\Data\Rule;
+use Splicewire\KnowledgeSpineData\Compliance\Data\Rule;
 use Spatie\LaravelData\Data;
 
 /**

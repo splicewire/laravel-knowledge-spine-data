@@ -1,9 +1,9 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Coherence;
+namespace Splicewire\KnowledgeSpineData\Coherence;
 
-use Rushing\KnowledgeSpineData\Coherence\Concerns\HasOrderingWindow;
-use Rushing\KnowledgeSpineData\Knowledge\OrderingPoint;
+use Splicewire\KnowledgeSpineData\Coherence\Concerns\HasOrderingWindow;
+use Splicewire\KnowledgeSpineData\Knowledge\OrderingPoint;
 use Spatie\LaravelData\Data;
 
 /**

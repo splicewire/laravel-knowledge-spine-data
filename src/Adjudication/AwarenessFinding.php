@@ -1,6 +1,6 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Adjudication;
+namespace Splicewire\KnowledgeSpineData\Adjudication;
 
 use Spatie\LaravelData\Data;
 

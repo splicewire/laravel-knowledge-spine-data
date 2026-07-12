@@ -1,11 +1,11 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Compliance\Data;
+namespace Splicewire\KnowledgeSpineData\Compliance\Data;
 
 use Carbon\CarbonImmutable;
-use Rushing\KnowledgeSpineData\Compliance\Concerns\HasBitemporalValidity;
-use Rushing\KnowledgeSpineData\Compliance\Enums\RuleLayer;
-use Rushing\KnowledgeSpineData\Compliance\Enums\RuleStatus;
+use Splicewire\KnowledgeSpineData\Compliance\Concerns\HasBitemporalValidity;
+use Splicewire\KnowledgeSpineData\Compliance\Enums\RuleLayer;
+use Splicewire\KnowledgeSpineData\Compliance\Enums\RuleStatus;
 use Rushing\LaravelDataSchemas\Attributes\Description;
 use Rushing\LaravelDataSchemas\Attributes\Example;
 use Spatie\LaravelData\Data;

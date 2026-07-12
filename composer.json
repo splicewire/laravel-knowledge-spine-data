@@ -12,12 +12,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Rushing\\KnowledgeSpineData\\": "src/"
+            "Splicewire\\KnowledgeSpineData\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Rushing\\KnowledgeSpineData\\Tests\\": "tests/"
+            "Splicewire\\KnowledgeSpineData\\Tests\\": "tests/"
         }
     },
     "extra": {

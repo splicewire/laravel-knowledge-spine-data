@@ -1,8 +1,8 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Adjudication\Contracts;
+namespace Splicewire\KnowledgeSpineData\Adjudication\Contracts;
 
-use Rushing\KnowledgeSpineData\Adjudication\Determination;
+use Splicewire\KnowledgeSpineData\Adjudication\Determination;
 
 /**
  * The append-only record contract for determinations. The engine defines the

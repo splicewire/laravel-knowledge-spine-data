@@ -1,6 +1,6 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Compliance\Concept;
+namespace Splicewire\KnowledgeSpineData\Compliance\Concept;
 
 /**
  * Lifecycle of a regulatory status record. Like rule fragments, statuses

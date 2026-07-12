@@ -1,8 +1,8 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Compliance\Contracts;
+namespace Splicewire\KnowledgeSpineData\Compliance\Contracts;
 
-use Rushing\KnowledgeSpineData\Compliance\Data\Rule;
+use Splicewire\KnowledgeSpineData\Compliance\Data\Rule;
 
 /**
  * Loads the corpus as engine DTOs. The default implementation is Eloquent, but

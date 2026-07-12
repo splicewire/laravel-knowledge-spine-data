@@ -1,8 +1,8 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Adjudication;
+namespace Splicewire\KnowledgeSpineData\Adjudication;
 
-use Rushing\KnowledgeSpineData\Contracts\EvaluationSubject;
+use Splicewire\KnowledgeSpineData\Contracts\EvaluationSubject;
 use Spatie\LaravelData\Data;
 
 /**

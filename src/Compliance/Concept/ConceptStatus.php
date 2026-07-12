@@ -1,9 +1,9 @@
 <?php
 
-namespace Rushing\KnowledgeSpineData\Compliance\Concept;
+namespace Splicewire\KnowledgeSpineData\Compliance\Concept;
 
 use Carbon\CarbonImmutable;
-use Rushing\KnowledgeSpineData\Compliance\Concerns\HasBitemporalValidity;
+use Splicewire\KnowledgeSpineData\Compliance\Concerns\HasBitemporalValidity;
 use Spatie\LaravelData\Data;
 
 /**
