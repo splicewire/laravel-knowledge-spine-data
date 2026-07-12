@@ -6,8 +6,8 @@ use Carbon\CarbonImmutable;
 use Splicewire\KnowledgeSpineData\Compliance\Concerns\HasBitemporalValidity;
 use Splicewire\KnowledgeSpineData\Compliance\Enums\RuleLayer;
 use Splicewire\KnowledgeSpineData\Compliance\Enums\RuleStatus;
-use Rushing\LaravelDataSchemas\Attributes\Description;
-use Rushing\LaravelDataSchemas\Attributes\Example;
+use Schemastud\DataSchemas\Attributes\Description;
+use Schemastud\DataSchemas\Attributes\Example;
 use Spatie\LaravelData\Data;
 
 /**

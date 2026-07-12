@@ -2,8 +2,8 @@
 
 namespace Splicewire\KnowledgeSpineData\Compliance\Concept;
 
-use Rushing\LaravelDataSchemas\Attributes\Description;
-use Rushing\LaravelDataSchemas\Attributes\Example;
+use Schemastud\DataSchemas\Attributes\Description;
+use Schemastud\DataSchemas\Attributes\Example;
 use Spatie\LaravelData\Data;
 
 /**
