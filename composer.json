@@ -1,5 +1,5 @@
 {
-    "name": "rushing/laravel-knowledge-spine-data",
+    "name": "splicewire/laravel-knowledge-spine-data",
     "description": "The knowledge engine's shared Data/DTO vocabulary: three-valued Ternary, the EvaluationSubject seam, ordering points, the adjudication records (Assertion/Verdict/Determination/OrderingStamp), and the compliance + coherence Data classes (rules, resolution, change, concepts). The predicate/adjudication/resolution kernel stays private; this is the data surface hosts and satellites share for 1:1 parity.",
     "type": "library",
     "license": "proprietary",
